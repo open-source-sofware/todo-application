@@ -1,0 +1,26 @@
+How to create todo application in laravel, breeze authentication, blade and tailwindcss
+
+1. Intro Message
+
+Initial steps
+
+1. Laravel installation and with breeze
+2. Create database and connect
+3. Setup css links for fontawesome, tailwindcss
+4. Create Generate Model, Controller, Migrations, Factories
+5. Add migrations table and migrate
+
+Functional Integration:
+
+1. Create todo from textfield
+2. Success message during
+3. Failed message (validation)
+2. Display all todos with pagination
+3. Set todo - finished or unfinished (checkbox) and fragment
+4. Delete todo, with confirmation before deleting it and fragment
+5. Pagination with append queries
+6. Apply search, results message and total, clear
+7. Apply filters (Finished, Unfinished, My Todos)
+8. Apply posted date and ago
+9. Dispay user creator in the todo
+10. Register different user to create different todos and play
